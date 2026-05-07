@@ -98,6 +98,8 @@ Each digest fetch makes one API call to Claude with web search enabled. At curre
 
 This app was built through an iterative, conversational design process — starting from a simple idea (a daily AI news email) and evolving through several formats (email digest → Notion integration → standalone web app) before landing on this minimal, fully client-side approach. The final design prioritizes speed, simplicity, and privacy over features.
 
+This will be the first part of similar apps, all for different Data. Gaming News, Tech News and Sports News will all be coming soon. 
+This has all been built to strengthen my knowledge base in AI, Front-end and Back-end development. 
 ---
 
 ## License
